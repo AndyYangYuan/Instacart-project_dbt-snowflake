@@ -1,0 +1,3 @@
+version: 2
+models:
+  - name: user_features_2.yml
